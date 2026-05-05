@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+}
+.background-fill{
+ background-color: gold;
+ width: 20%;
+ height: 20%;
+}
